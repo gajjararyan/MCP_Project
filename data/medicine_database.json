@@ -1,0 +1,109 @@
+{
+  "pain_fever": [
+    {
+      "name": "Paracetamol",
+      "generic": "Acetaminophen",
+      "brands": [
+        "Crocin",
+        "Dolo",
+        "Calpol"
+      ],
+      "dosage": "500mg-1000mg every 4-6 hours",
+      "max_daily": "4000mg",
+      "use": "Pain relief, fever reduction",
+      "side_effects": [
+        "Rare: liver damage at high doses"
+      ],
+      "warnings": [
+        "Don't exceed maximum dose",
+        "Avoid with alcohol"
+      ],
+      "price_range": "₹10-₹30 per strip"
+    },
+    {
+      "name": "Ibuprofen",
+      "generic": "Ibuprofen",
+      "brands": [
+        "Brufen",
+        "Advil",
+        "Combiflam"
+      ],
+      "dosage": "200mg-400mg every 4-6 hours",
+      "max_daily": "1200mg (OTC)",
+      "use": "Pain, inflammation, fever",
+      "side_effects": [
+        "Stomach upset",
+        "Heartburn"
+      ],
+      "warnings": [
+        "Take with food",
+        "Not for stomach ulcers"
+      ],
+      "price_range": "₹15-₹40 per strip"
+    }
+  ],
+  "cold_cough": [
+    {
+      "name": "Cetirizine",
+      "generic": "Cetirizine",
+      "brands": [
+        "Zyrtec",
+        "Alerid",
+        "Cetrizet"
+      ],
+      "dosage": "10mg once daily",
+      "max_daily": "10mg",
+      "use": "Allergic rhinitis, cold symptoms",
+      "side_effects": [
+        "Drowsiness",
+        "Dry mouth"
+      ],
+      "warnings": [
+        "May cause drowsiness"
+      ],
+      "price_range": "₹20-₹50 per strip"
+    }
+  ],
+  "acidity": [
+    {
+      "name": "Omeprazole",
+      "generic": "Omeprazole",
+      "brands": [
+        "Omez",
+        "Prilosec"
+      ],
+      "dosage": "20mg once daily before breakfast",
+      "max_daily": "20mg (OTC)",
+      "use": "Acid reflux, heartburn",
+      "side_effects": [
+        "Headache",
+        "Nausea"
+      ],
+      "warnings": [
+        "Take 30 min before eating"
+      ],
+      "price_range": "₹30-₹80 per strip"
+    }
+  ],
+  "digestive": [
+    {
+      "name": "Loperamide",
+      "generic": "Loperamide",
+      "brands": [
+        "Imodium",
+        "Eldoper"
+      ],
+      "dosage": "2mg initially, then 2mg after each loose stool",
+      "max_daily": "8mg",
+      "use": "Diarrhea",
+      "side_effects": [
+        "Constipation",
+        "Dizziness"
+      ],
+      "warnings": [
+        "Don't use if fever present"
+      ],
+      "price_range": "₹25-₹60 per strip"
+    }
+  ]
+}
